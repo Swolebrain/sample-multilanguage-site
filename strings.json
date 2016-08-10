@@ -1,0 +1,16 @@
+{
+  "es": {
+    "title": "Bienvenido a FVI",
+    "header1": "Programas de Tecnologia",
+    "techparagraph": "Este es el parrafo de tecnologia. Este es el parrafo de tecnologia. Este es el parrafo de tecnologia. Este es el parrafo de tecnologia.",
+    "header2": "Programas de Salud",
+    "healthparagraph": "Este es el parrafo de salud. Este es el parrafo de salud. Este es el parrafo de salud. Este es el parrafo de salud. "
+  },
+  "en": {
+    "title": "Welcome to FVI",
+    "header1": "Technology Programs",
+    "techparagraph": "This is the tech paragraph. This is the tech paragraph. This is the tech paragraph. This is the tech paragraph.",
+    "header2": "Allied Health Programs",
+    "healthparagraph": "This is the allied health paragraph. This is the allied health paragraph. This is the allied health paragraph. This is the allied health paragraph. "
+  }
+}
