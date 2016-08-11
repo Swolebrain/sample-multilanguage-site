@@ -14,5 +14,5 @@ app.get('/es', function(req,res){
   res.render('index.ejs', data.es);
 });
 
-app.listen(7676, ()=>
-  console.log('app listening on port 7676'));
+app.listen(80, ()=>
+  console.log('app listening on port 80'));
